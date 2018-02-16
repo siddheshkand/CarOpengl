@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/graphics.dir/main.c.o  -o graphics 
